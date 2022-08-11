@@ -33,4 +33,3 @@ React로 웹 사이트를 제작해보는 시간을 가졌습니다.
       </Router>
 ```
 으로 작성하기를 추천합니다.
-          <Route path='/products' element={<Products/>} />
